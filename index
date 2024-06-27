@@ -1,1 +1,17 @@
+<!Doctype html>
+<html>
+<head>
+  <meta charset="UTA-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <titile>Prayer Request</title>
+</head>
+<body>
+<h2 id="prayerrequestHeader">Prayer Request</h2>
+<p id="prayerrequestParagraph">We are always in need of prayer when we can't pray for ourselves. It helps to request a prayer from someone. Please click below to submit that request.</p>
+<button id="prayerrequestButton">Create Prayer Request</button>
 
+<script src="script.js"></scrpt>
+
+</body>
+</html>
